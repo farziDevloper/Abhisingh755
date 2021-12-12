@@ -1,4 +1,15 @@
 ### Hi there 👋
+###  I’m currently working on being a Web Developer.
+
+### Currently Learning Backend...
+
+### email : @singh80020@gmail.com
+
+### twitter : @the_abhi_singh
+
+### github : https://github.com/Abhisingh755
+
+### 
 
 <!--
 **Abhisingh755/Abhisingh755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
