@@ -1,5 +1,7 @@
 ### Hi there 👋
-###  I’m currently working on being a Web Developer.
+###  “Copy-and-Paste was programmed by programmers for programmers actually.”
+
+
 
 ### Currently Learning Backend...
 
@@ -9,7 +11,7 @@
 
 ### github : https://github.com/Abhisingh755
 
-### 
+### “Algorithm: Word used by programmers when they don’t want to explain what they did.”
 
 <!--
 **Abhisingh755/Abhisingh755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
