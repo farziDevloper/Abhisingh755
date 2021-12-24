@@ -1,7 +1,11 @@
-### Hi there 👋
-###  “Copy-and-Paste was programmed by programmers for programmers actually.”
+
+
 
 ![Alt text](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300)
+
+### Hi there 👋
+
+###  “Copy-and-Paste was programmed by programmers for programmers actually.”
 
 ### Currently Learning Backend...
 
