@@ -1,7 +1,7 @@
 
 
 
-![Alt text](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300)
+![Alt text](https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif)
 
 ### Hi there 👋
 
