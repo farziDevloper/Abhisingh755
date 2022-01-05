@@ -3,14 +3,14 @@
 
 
 ### Hi there, I am Abhishek Singh 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Dheerajmehta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-singh-4b0999b9//)](https://www.linkedin.com/in/abhishek-singh-4b0999b9/)
+[![Linkedin Badge](https://img.shields.io/badge/-Abhishek Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-singh-4b0999b9//)](https://www.linkedin.com/in/abhishek-singh-4b0999b9/)
 [![Gmail Badge](https://img.shields.io/badge/-singh80020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singh80020@gmail.com)](mailto:singh80020@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://github.com/Abhisingh755)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 *Things I love*
-- Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Javascript <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&usqp=CAU" width="30"> 
 - React.js ✍️
 - MongoDB 🧐
 - Nodejs 😬
