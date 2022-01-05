@@ -1,4 +1,4 @@
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&usqp=CAU" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" alt="Coder GIF" width="420" height="330">
 
 
 
