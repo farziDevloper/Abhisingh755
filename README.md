@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Abhishek Singh 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Dheerajmehta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-mehta-a8b15816b/)](https://www.linkedin.com/in/dheeraj-mehta-a8b15816b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Dheerajmehta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-singh-4b0999b9//)](https://www.linkedin.com/in/abhishek-singh-4b0999b9/)
 [![Gmail Badge](https://img.shields.io/badge/-singh80020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singh80020@gmail.com)](mailto:singh80020@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
