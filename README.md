@@ -36,5 +36,5 @@
 
 
 <div align="center">
-    <h3 align="center">Show some &nbsp; ♣ &nbsp; by starring some of the repositories!</h3>
+    <h3 align="center">Show some &nbsp; <img src="https://bestanimations.com/media/stars/139102408gold-star-animation9.gif" width="30">   &nbsp; by starring some of the repositories!</h3>
 </div>
