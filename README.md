@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-singh-4b0999b9//)](https://www.linkedin.com/in/abhishek-singh-4b0999b9/)
 [![Gmail Badge](https://img.shields.io/badge/-Abhishek-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singh80020@gmail.com)](mailto:singh80020@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://github.com/Abhisingh755)
+- 🎯 Portfolio website: [Portfolio](https://abhishek-portfolio.dorik.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 *Things I love*
