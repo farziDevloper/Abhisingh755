@@ -1,4 +1,4 @@
-<img align="right" src="https://i.gifer.com/HaD1.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://i.gifer.com/origin/5e/5e247dd386650bc3215ee95bd2510f50_w200.webp" alt="Coder GIF" width="420" height="330">
 
 
 
