@@ -1,4 +1,4 @@
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/43172b22243917.5630f07edae58.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://i.gifer.com/HaD1.gif" alt="Coder GIF" width="420" height="330">
 
 
 
@@ -34,7 +34,7 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-
+<div>“Copy-and-Paste was programmed by programmers for programmers actually.” </div>
 <div align="center">
     <h3 align="center">Show some&nbsp;<img src="https://c.tenor.com/sfX_wg0N8IsAAAAM/love-beating.gif" width="30"> &nbsp; by starring &nbsp;  <img src="https://bestanimations.com/media/stars/139102408gold-star-animation9.gif" width="30">&nbsp; some of the repositories!</h3>
 </div>
