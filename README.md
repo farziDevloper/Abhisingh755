@@ -1,4 +1,4 @@
-<img align="right" src="https://i.gifer.com/origin/5e/5e247dd386650bc3215ee95bd2510f50_w200.webp" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coder GIF" width="420" height="330">
 
 
 
@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-singh-4b0999b9//)](https://www.linkedin.com/in/abhishek-singh-4b0999b9/)
 [![Gmail Badge](https://img.shields.io/badge/-Abhishek-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singh80020@gmail.com)](mailto:singh80020@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://abhishek-portfolio.dorik.io/)
+- 🎯 Portfolio website: [Portfolio](https://krabhiportfolio.vercel.app/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 *Things I love*
