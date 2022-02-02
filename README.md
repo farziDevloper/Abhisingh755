@@ -1,4 +1,4 @@
-<img align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://i2.wp.com/i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy-downsized.gif?w=770&ssl=1" alt="Coder GIF" width="420" height="330">
 
 
 
