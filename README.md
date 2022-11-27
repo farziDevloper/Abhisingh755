@@ -12,10 +12,9 @@
 💻 *Things I love*
 - Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - React.js <img src="https://3ulsmb4eg8vz37c0vz2si64j-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/react-native-UX-design.gif" width="30"> 
-- MongoDB <img src="https://www.pistalix.in/wp-content/uploads/2018/11/mongodb.gif" width="30"> 
-- Nodejs <img src="https://raw.githubusercontent.com/yoavain/create-windowless-app/main/resources/docs/logo.gif" width="30"> 
+
 - Tailwind <img src="https://raw.githubusercontent.com/app-generator/static/master/tailwind-css/tailwind-css-components-intro.gif" width="30"> 
-- Express <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RI_lzIWT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2APTKhCN2p9S8EDZ4r.gif" width="30"> 
+
 
     <a href="https://github.com/Abhisingh755/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Abhisingh755&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
@@ -28,11 +27,7 @@
 
 
 
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 <div align="center">
